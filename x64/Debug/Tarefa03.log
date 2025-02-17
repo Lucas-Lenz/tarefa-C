@@ -1,0 +1,13 @@
+﻿cl : linha de comando  warning D9025: substituindo '/sdl' com '/GS-'
+  33A_LUCASLIMA_1910609_T03.c
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(55,14): warning C4047: 'return': 'int' difere em níveis de indireção de 'void *'
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(33,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(63,23): warning C4047: '==': 'int' difere em níveis de indireção de 'void *'
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(72,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(85,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(87,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(127,9): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(208,8): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(219,8): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Lucas\Desktop\Programa em C\Tarefa03\Tarefa03\33A_LUCASLIMA_1910609_T03.c(230,8): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Tarefa03.vcxproj -> C:\Users\Lucas\Desktop\Programa em C\Tarefa03\x64\Debug\Tarefa03.exe
